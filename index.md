@@ -5,6 +5,6 @@
 ### Homework 2
 ### Homework 3
 
-### Term Project
+### Project
 
 [link](https://moodle.boun.edu.tr/my/)
