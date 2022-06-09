@@ -4,4 +4,4 @@
 ### Homework 1
 ### Homework 2
 
-[link] (https://moodle.boun.edu.tr/mod/forum/discuss.php?d=97459)
+[link] (https://moodle.boun.edu.tr/my/)
