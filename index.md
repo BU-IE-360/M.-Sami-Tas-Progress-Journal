@@ -5,6 +5,9 @@
 ### Homework 2
 ### Homework 3
 
-### Project
+### Term Project
 
-[link](https://moodle.boun.edu.tr/my/)
+
+
+[link](Term Project/Son- IE360 Spring Project.Rmd)
+
